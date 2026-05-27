@@ -1,4 +1,4 @@
 services:
   - type: web
-    name: hyperproxy
+    name: proxy
     runtime: docker
